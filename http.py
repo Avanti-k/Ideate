@@ -63,8 +63,8 @@ for key,val in client.items():
     print key,"=>", val
     
     # output snippet
-
-client ip: 194.8.75.149
+'''
+#client ip: 194.8.75.149
 RFC identity: -
 user id: -
 Date: [19/May/2009:23:39:20
@@ -253,4 +253,4 @@ Number of times a particular client sent requests
 98.229.117.112 => 4
 202.12.97.114 => 1
 
-#
+'''

@@ -93,7 +93,7 @@ int main(int argc ,char* argv[]) {
 	if(argc==1)
 	{
 		cout<<"1";
-		cout<<"\n usage:";
+		cout<<"\n usage: ./svc filename version";
 		return 0;
 	}
 
